@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AdpçãodePet</string>
+    <string name="activity_main_usuario">Usuário</string>
+    <string name="activity_main_senha">Senha</string>
+    <string name="activity_main_entrar">Entrar</string>
+    <string name="activity_main_esqueci_senha">Esqueci a senha</string>
+    <string name="activity_main_cadastrar_senha">Cadastrar senha</string>
+    <string name="activity_tela_selecao_cao">Cão</string>
+    <string name="activity_tela_selecao_gato">Gato</string>
+    <string name="activity_tela_selecao_coelho">Coelho</string>
+    <string name="activity_tela_agendamentos">Agendamentos</string>
+    <string name="activity_main_falha_autenticacao">Falha na Autentição</string>
+</resources>
